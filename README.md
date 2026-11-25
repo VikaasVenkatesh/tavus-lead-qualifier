@@ -2,6 +2,8 @@
 
 **An AI SDR you can look in the eye.** A visitor lands on a home-services site, clicks *Talk to our dispatcher*, and has a face-to-face video conversation with a [Tavus](https://tavus.io) AI human. While they talk, the AI qualifies them, books the visit, and logs a structured lead record. A side panel fills in as each tool fires.
 
+**Live:** https://tavus-lead-qualifier.vercel.app (two-agent demo at [`/?demo=1`](https://tavus-lead-qualifier.vercel.app/?demo=1), captured leads at [`/leads`](https://tavus-lead-qualifier.vercel.app/leads))
+
 The demo business is **Prairie Air Heating & Cooling**, a fictional Kansas City HVAC company styled after my HVAC concept-site work.
 
 [![Two Tavus AI humans on a live call: the dispatcher qualifies and books the homeowner](docs/demo-poster.jpg)](public/demo.mp4)
